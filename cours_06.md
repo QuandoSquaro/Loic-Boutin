@@ -1,3 +1,7 @@
 # Cours 6
 ## Préparation en vue de la visite
-Préparer 5 questions en lien avec la visite que nous irons faire la semaine prochaine. Faites des recherches concernant ce que nous allons visiter afin d'en savoir plus. Les questions doivent porter sur des informations que vous ne pouvez pas trouver en ligne. 
+- Sur quoi porteras les présentations?
+- Avec quel marérieal allons nous visionner les présentations?
+- Il y aurat-il des jeux en VR?
+- Combien de temps dureront les activitées?
+- Es-ce qu'il y aura que de la VR?
